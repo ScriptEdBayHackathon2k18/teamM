@@ -23,8 +23,8 @@
 		"rightbutton": {
 			"text": "",
 			"link_id": 4
-		}
-	}
+		} 
+  }
 },{
 	"id": 2,
 	"content": "",
@@ -61,16 +61,19 @@
 		},
 	}
 },{
-	"id": 2,
+	"id": 3,
 	"content": "",
 	"options": {
 		"leftbutton": {
 			"text": "",
-			"link_id": 4
+			"link_id": 7
+		},
+    "middlebutton": {
+			"text": "",
+			"link_id": 8
 		},
 		"rightbutton": {
 			"text": "",
-			"link_id": 3
+			"link_id": 9
 		}
-	}
-}
+	}, 
