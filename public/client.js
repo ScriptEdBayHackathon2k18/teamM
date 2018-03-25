@@ -5,9 +5,10 @@ $(function() {
   }
   function fetchData(){
     
-    $.getJSON("/dev.json", function(data) {
+    $.getJSON("/data.json", function(data) {
       console.log( "success" );
       setData(data);
+      setUpPage(data[0]);
     })
     .done(function() {
       console.log( "second success" );
@@ -34,10 +35,21 @@ $(function() {
     setUpPage(data[screenId]);
   };
   
-  function setUpPage(screen, id){
-    var content = screen[content];
-    console.log(content);
+  function setUpPage(screen){
+    var content = screen.content;
     $("#content").html(content);
+    console.log("hey");
+    $("#leftbutton").data("next-screen", screen.options.leftbutton.link_id);
+    $("#leftbutton").text(screen.options.leftbutton.text);
+    console.log("no");
+    if(screen.options.middlebutton){
+      $("#middlebutton").data("next-screen", screen.options.middlebutton.link_id);
+      $("#middlebutton").text(screen.options.middlebutton.text);
+    }
+    if(screen.options.rightbutton){    
+        $("#rightbutton").data("next-screen", screen.options.rightbutton.link_id);
+        $("#rightbutton").text(screen.options.rightbutton.text);
+    }
   };
   
 })

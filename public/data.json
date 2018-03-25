@@ -32,11 +32,11 @@
   "background": "#686868",
 	"options": {
 		"leftbutton": {
-			"text": "",
+			"text": "Just ignore him.",
 			"link_id": 4
 		},
 		"rightbutton": {
-			"text": "",
+			"text": "Befriend him.",
 			"link_id": 3
 		}
 	}
@@ -66,11 +66,11 @@
 	}
 },{
 	"id": 3,
-	"content": "",
+	"content": "<p>\r\n          After hanging around him for a few days, you spot your friend crying. He wants reassurance \r\n          that his future will be fine; he knows what he's doing is wrong... Should you warn him?\r\n        <\/p>",
   "background": "#404040",
 	"options": {
 		"leftbutton": {
-			"text": "",
+			"text": "No. This was his own wrongdoing.",
 			"link_id": 7
     },
     "middlebutton": {
@@ -78,27 +78,27 @@
 			"link_id": 8
 		},
 		"rightbutton": {
-			"text": "",
+			"text": "Explain how you dived into his consciousness.",
 			"link_id": 9
 		}
    }
 	}, {
 	"id": 6,
-	"content": "",
+	"content": "<p>\r\n          Your friend rushes up to you and thanks you. Both of you skip the rest of today's classes to hang out. \r\n          As you were heading towards the park, someone abruptly blocks your path. It's the bullies from earlier.\r\n          Either you leave your friend to \"hang out\" with them or you can say goodbye to your face.\r\n        <\/p>",
   "background": "#D3D3D3",
 	"options": {
 		"leftbutton": {
-			"text": "",
+			"text": "You can't think straight and just RUN, leaving your friend behind.",
 			"link_id": 11
 		},
 		"rightbutton": {
-			"text": "",
+			"text": "You grab your friend's hand and run.",
 			"link_id": 10
 		}
 	}
 },{
 	"id": 7,
-	"content": "",
+	"content": "<p>\r\n          After school, you are strolling down the sidewalk when you encounter your friend once again, surrounded \r\n          by bullies. He's been heavily beaten: there's a bruise under his eye and he's clutching his stomach.\r\n        <\/p>",
   "background": "#696969",
 	"options": {
 		"leftbutton": {
