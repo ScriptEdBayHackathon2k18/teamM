@@ -15,7 +15,6 @@
 }, {
 	"id": 1,
 	"content": "",
-  "background": "#808080",
 	"options": {
 		"leftbutton": {
 			"text": "",
@@ -29,7 +28,6 @@
 },{
 	"id": 2,
 	"content": "",
-  "background": "#808080",
 	"options": {
 		"leftbutton": {
 			"text": "",
@@ -141,5 +139,9 @@
 			"link_id": 200
 		},
 	}
- }]
+ },{
+	"id": 100,
+	"content": "",
+  "background": "#ffffff",
+ }
  
