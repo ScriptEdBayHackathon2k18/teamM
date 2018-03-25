@@ -27,9 +27,10 @@ var fetchData = function(){
   .always(function() {
     console.log( "complete" );
   });
-}
-   
-   
-   
-   
+} 
 })
+function setUpPage(){
+  $("#rightbutton");
+  $("#leftbutton");
+  $("#middlebutton");
+};
