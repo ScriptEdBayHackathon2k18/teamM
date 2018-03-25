@@ -17,7 +17,7 @@ $(function() {
     console.log( "complete" );
   });
   } 
-  var data= fetchData(); 
+  window.data= fetchData(); 
   $("#leftButton").click(handleButtonClick);
   $("#middleButton").click(handleButtonClick);
   $("#rightButton").click(handleButtonClick);
@@ -29,7 +29,8 @@ $(function() {
   };
   
   function setUpPage(id){
-    
+    var content = window.data[id][content];
+    console.log(content);
   };
   
 })

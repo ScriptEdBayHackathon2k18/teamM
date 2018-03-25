@@ -41,30 +41,6 @@
 		}
 	}
 },{
-	"id": 5,
-	"content": "",
-  "background": "	#C0C0C0",
-	"options": {
-		"leftbutton": {
-			"text": "",
-			"link_id": 6
-		},
-		"rightbutton": {
-			"text": "",
-			"link_id": 7
-		}
-	}
-},{
-	"id": 4,
-	"content": "#707070",
-  "background": "",
-	"options": {
-		"middlebutton": {
-			"text": "",
-			"link_id": 7
-		},
-	}
-},{
 	"id": 3,
 	"content": "",
   "background": "#404040",
@@ -82,7 +58,31 @@
 			"link_id": 9
 		}
    }
-	}, {
+},{
+	"id": 4,
+	"content": "#707070",
+  "background": "",
+	"options": {
+		"middlebutton": {
+			"text": "",
+			"link_id": 7
+		}
+	}
+},{
+	"id": 5,
+	"content": "",
+  "background": "#C0C0C0",
+	"options": {
+		"leftbutton": {
+			"text": "",
+			"link_id": 6
+		},
+		"rightbutton": {
+			"text": "",
+			"link_id": 7
+		}
+	}
+}, {
 	"id": 6,
 	"content": "",
   "background": "#D3D3D3",
