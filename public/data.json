@@ -1,6 +1,6 @@
 [{
 	"id": 0,
-	"content": "",
+	"content": "<p class=\"con\">\r\n        Doctor: \"Are the wires connected?\"\r\n        <\/p>\r\n        <p class=\"con\">\r\n        You: \"Yes. His life depends on me doesn't it?\"\r\n        <\/p>\r\n        <p class=\"con\">\r\n        Doctor: \"It does. Your decisions will be a great impact in your friend's mental \r\n        state. Remember: when you dive into his consciousness, he will not know who you are. This diving session \r\n        will affect your mental state as well. You will be launched into his consciousness in 3... 2... 1...\"\r\n        <\/p>\r\n        <p id=\"subtext\"> \r\n          You are in. Which memory will you alter?\r\n        <\/p>",
 	"background": "#808080",
 	"options": {
 		"leftbutton": {
@@ -43,7 +43,7 @@
 },{
 	"id": 5,
 	"content": "",
-  "background": "	#C0C0C0",
+  "background": "#C0C0C0",
 	"options": {
 		"leftbutton": {
 			"text": "",
@@ -62,7 +62,7 @@
 		"middlebutton": {
 			"text": "",
 			"link_id": 7
-		},
+		}
 	}
 },{
 	"id": 3,
@@ -118,7 +118,7 @@
 		"middlebutton": {
 			"text": "",
 			"link_id": 200
-		},
+		}
 	}
  }, {
 	"id": 9,
@@ -128,7 +128,7 @@
 		"middlebutton": {
 			"text": "",
 			"link_id": 300
-		},
+		}
 	}
  },{
 	"id": 11,
@@ -138,7 +138,7 @@
 		"middlebutton": {
 			"text": "",
 			"link_id": 100
-		},
+		}
 	}
  },{
 	"id": 10,
@@ -148,19 +148,19 @@
 		"middlebutton": {
 			"text": "",
 			"link_id": 200
-		},
+		}
 	}
  },{
 	"id": 100,
 	"content": "",
-  "background": "#ffffff",
+  "background": "#ffffff"
  }, {
 	"id": 200,
 	"content": "",
-  "background": "#808080",
+  "background": "#808080"
  }, {
 	"id": 300,
 	"content": "",
-  "background": "#000000",
- }
+  "background": "#000000"
+ }]
  

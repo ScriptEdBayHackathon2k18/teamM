@@ -18,16 +18,18 @@ $(function() {
   });
   } 
   var data= fetchData(); 
-  $("#lefttButton").click(handleButtonClick);
+  $("#leftButton").click(handleButtonClick);
   $("#middleButton").click(handleButtonClick);
   $("#rightButton").click(handleButtonClick);
   
-  function setUpPage(){
-
-  };
-  function handleButtonClick(){
+    function handleButtonClick(){
     var screenId;
     screenId = $(this).data("next-screen");
-    console.log(screenId)
+    setUpPage(screenId)
   };
+  
+  function setUpPage(id){
+    
+  };
+  
 })
