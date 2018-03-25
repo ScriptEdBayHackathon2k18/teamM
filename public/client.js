@@ -8,15 +8,15 @@ $("#optionone").click(function() {
 //option 1 makes it brighter
 $("#optiontwo").click(function() {
   $("body").css("background-color", "#787878");
-  $("body"
 })
 //option 2 makes it darker
 var success = function(data) {
   console.log("here is the data", data);
 }
 var fetchData = function(){
-  $.getJSON("/data.json", function() {
-  console.log( "success" );
+  $.getJSON("/data.json", function(data) {
+    console.log(data);
+    console.log( "success" );
 })
   .done(function() {
     console.log( "second success" );
