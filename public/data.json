@@ -28,7 +28,7 @@
   }
 },{
 	"id": 2,
-	"content": "",
+	"content": "<p>\r\n           You wake up in front of your friend's house. It looks like... he's taking drugs?!? He's only 15. \r\n          Should you stop him?\r\n        <\/p>",
   "background": "#686868",
 	"options": {
 		"leftbutton": {
