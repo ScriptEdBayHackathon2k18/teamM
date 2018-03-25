@@ -3,11 +3,12 @@
 })
 $("#optionone").click(function() {
   $("body").css("background-color", "#888888");
-  $("body").text("#sctwobs");
+  $("#sctwobs").show();
 })
 //option 1 makes it brighter
 $("#optiontwo").click(function() {
   $("body").css("background-color", "#787878");
+  $("#sctword").show();
 })
 //option 2 makes it darker
 var success = function(data) {
