@@ -1,6 +1,4 @@
  $(function() {
-  console.log('hello world :o')
-})
 $("#optionone").click(function() {
   $("body").css("background-color", "#888888");
   $("#sctwobs").show();
@@ -30,3 +28,8 @@ var fetchData = function(){
     console.log( "complete" );
   });
 }
+   
+   
+   
+   
+})
