@@ -67,7 +67,7 @@
 		"leftbutton": {
 			"text": "",
 			"link_id": 7
-		},
+    },
     "middlebutton": {
 			"text": "",
 			"link_id": 8
@@ -76,4 +76,32 @@
 			"text": "",
 			"link_id": 9
 		}
-	}, 
+   }
+	}, {
+	"id": 6,
+	"content": "",
+	"options": {
+		"leftbutton": {
+			"text": "",
+			"link_id": 11
+		},
+		"rightbutton": {
+			"text": "",
+			"link_id": 10
+		}
+	}
+},{
+	"id": 7,
+	"content": "",
+	"options": {
+		"leftbutton": {
+			"text": "",
+			"link_id": 11
+		},
+		"rightbutton": {
+			"text": "",
+			"link_id": 10
+		}
+	}
+},
+ 
