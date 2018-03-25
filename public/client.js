@@ -2,7 +2,7 @@
 $(function() {
   
   var fetchData = function(){
-  $.getJSON("/data.json", function(data) {
+  $.getJSON("/dev.json", function(data) {
     console.log(data);
     console.log( "success" );
   })

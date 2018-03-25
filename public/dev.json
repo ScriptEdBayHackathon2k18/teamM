@@ -56,8 +56,8 @@
 	}
 },{
 	"id": 4,
-	"content": "",
-  "background": "#707070",
+	"content": "#707070",
+  "background": "",
 	"options": {
 		"middlebutton": {
 			"text": "",
@@ -96,71 +96,4 @@
 			"link_id": 10
 		}
 	}
-},{
-	"id": 7,
-	"content": "",
-  "background": "#696969",
-	"options": {
-		"leftbutton": {
-			"text": "",
-			"link_id": 11
-		},
-		"rightbutton": {
-			"text": "",
-			"link_id": 10
-		}
-	}
-},{
-	"id": 8,
-	"content": "",
-  "background": "#707070",
-	"options": {
-		"middlebutton": {
-			"text": "",
-			"link_id": 200
-		},
-	}
- }, {
-	"id": 9,
-	"content": "",
-   "background": "#303030",
-	"options": {
-		"middlebutton": {
-			"text": "",
-			"link_id": 300
-		},
-	}
- },{
-	"id": 11,
-	"content": "",
-   "background": "#E0E0E0",
-	"options": {
-		"middlebutton": {
-			"text": "",
-			"link_id": 100
-		},
-	}
- },{
-	"id": 10,
-	"content": "",
-   "background": "#585858",
-	"options": {
-		"middlebutton": {
-			"text": "",
-			"link_id": 200
-		},
-	}
- },{
-	"id": 100,
-	"content": "",
-  "background": "#ffffff",
- }, {
-	"id": 200,
-	"content": "",
-  "background": "#808080",
- }, {
-	"id": 300,
-	"content": "",
-  "background": "#000000",
- }
- 
+}]
