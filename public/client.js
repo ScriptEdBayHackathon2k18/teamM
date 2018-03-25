@@ -1,4 +1,4 @@
-$(function() {
+ $(function() {
   console.log('hello world :o')
 })
 $("#optionone").click(function() {
@@ -12,4 +12,9 @@ $("#optiontwo").click(function() {
 $("#optionthree").click(function() {
   $("body").css("background-color", "#909090");
 })
-//option 3 makes it brighter
+var success = function(data) {
+  console.log(data);
+}
+var fetchData = function(){
+  $.getJSON("/data.json", {}, success);
+}
