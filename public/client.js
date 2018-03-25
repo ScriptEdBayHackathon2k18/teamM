@@ -35,5 +35,6 @@ var success = function(data) {
 
 })
 function setUpPage(){
-  
+
 };
+handleB

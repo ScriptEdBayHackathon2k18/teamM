@@ -2,7 +2,9 @@ body {
   background-color: gray;
 }
 
-
+p {
+  color: blue;
+}
 
 #sctwobs {
   display:none;
