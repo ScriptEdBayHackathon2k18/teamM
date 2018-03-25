@@ -1,37 +1,76 @@
 [{
-	"id": 1,
+	"id": 0,
 	"content": "",
 	"background": "#808080",
 	"options": {
-		"1": {
+		"leftbutton": {
 			"text": "the blue sky",
-			"link_id": 2
+			"link_id": 1
 		},
-		"2": {
+		"rightbutton": {
 			"text": "the red dawn",
-			"link_id": 3
+			"link_id": 2
 		}
 	}
 }, {
+	"id": 1,
+	"content": "",
+	"options": {
+		"leftbutton": {
+			"text": "",
+			"link_id": 5
+		},
+		"rightbutton": {
+			"text": "",
+			"link_id": 4
+		}
+	}
+},{
 	"id": 2,
 	"content": "",
 	"options": {
-		"": {
-			"text": "to card 3",
-			"link_id": 2
+		"leftbutton": {
+			"text": "",
+			"link_id": 4
 		},
-		"3": {
-			"text": "to card 4",
+		"rightbutton": {
+			"text": "",
 			"link_id": 3
 		}
 	}
-}]
-[{ 
-  "id": 3
-  "content": "",
-  "options": {
-  "5+6": {
-
-    }
-  }
-}]
+},{
+	"id": 5,
+	"content": "",
+	"options": {
+		"leftbutton": {
+			"text": "",
+			"link_id": 6
+		},
+		"rightbutton": {
+			"text": "",
+			"link_id": 7
+		}
+	}
+},{
+	"id": 4,
+	"content": "",
+	"options": {
+		"middlebutton": {
+			"text": "",
+			"link_id": 7
+		},
+	}
+},{
+	"id": 2,
+	"content": "",
+	"options": {
+		"leftbutton": {
+			"text": "",
+			"link_id": 4
+		},
+		"rightbutton": {
+			"text": "",
+			"link_id": 3
+		}
+	}
+}
