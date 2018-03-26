@@ -49,10 +49,6 @@
       "text": "No. This was his own wrongdoing.",
       "link_id": 7
     },
-    "middlebutton": {
-      "text": "",
-      "link_id": 8
-    },
     "rightbutton": {
       "text": "Explain how you dived into his consciousness.",
       "link_id": 9
@@ -60,25 +56,25 @@
   }
 },{
   "id": 4,
-  "content": "",
+  "content": "Content",
   "background": "#707070",
   "options": {
     "middlebutton": {
-      "text": "",
+      "text": "To Screen 7",
       "link_id": 7
     }
   }
 },{
   "id": 5,
-  "content": "",
+  "content": "Content",
   "background": "#C0C0C0",
   "options": {
     "leftbutton": {
-      "text": "",
+      "text": "To Screen 6",
       "link_id": 6
     },
     "rightbutton": {
-      "text": "",
+      "text": "To Screen 7",
       "link_id": 7
     }
   }
@@ -116,8 +112,8 @@
   "background": "#707070",
   "options": {
     "middlebutton": {
-      "text": "",
-      "link_id": 200
+      "text": "Attempt",
+      "link_id": 13
     }
   }
 }, {
@@ -127,17 +123,7 @@
   "options": {
     "middlebutton": {
       "text": "Okay, I'm ready.",
-      "link_id": 300
-    }
-  }
-},{
-  "id": 11,
-  "content": "<p>\r\n          The doctor contacts you.\r\n        <\/p>\r\n        <p>\r\n          Doctor: \"Diver, the mission has failed. For some reason, the patient's mind has gone under extreme stress\r\n          and... I am no longer receiving a response.\"\r\n        <\/p>",
-  "background": "#E0E0E0",
-  "options": {
-    "middlebutton": {
-      "text": "Return",
-      "link_id": 100
+      "link_id": 14
     }
   }
 },{
@@ -147,19 +133,29 @@
   "options": {
     "middlebutton": {
       "text": "Return",
-      "link_id": 200
+      "link_id": 13
     }
   }
 },{
-  "id": 100,
+  "id": 11,
+  "content": "<p>\r\n          The doctor contacts you.\r\n        <\/p>\r\n        <p>\r\n          Doctor: \"Diver, the mission has failed. For some reason, the patient's mind has gone under extreme stress\r\n          and... I am no longer receiving a response.\"\r\n        <\/p>",
+  "background": "#E0E0E0",
+  "options": {
+    "middlebutton": {
+      "text": "Return",
+      "link_id": 12
+    }
+  }
+},{
+  "id": 12,
   "content": "<p>\r\n          Upon your return, your doctor tells you that it is unlikely your friend will ever wake up again. \r\n          The doctor couldn't see what was going on and doesn't know what happened.\r\n        <\/p>",
   "background": "#ffffff"
 }, {
-  "id": 200,
+  "id": 13,
   "content": "<p>\r\n          Your friend thanks you for saving them, they are happy to know that there is someone who cares for them \r\n          as much you do. Upon your return, your doctor tells you've made amazing progress. Your friend will most \r\n          likely recover completely in a year or so.\r\n        <\/p>",
   "background": "#808080"
 }, {
-  "id": 300,
+  "id": 14,
   "content": "<p>\r\n          You meet your friend. He laughs. Thanks for trusting him... although you may regret it. He's figured out how to \r\n          control the simulation. There are two doors: the one you came in from and the one that entered your friend's \r\n          memories. He shoves you into his and runs through yours before you can react. Your world fades to darkness.\r\n        <\/p>",
   "background": "#000000"
 }]

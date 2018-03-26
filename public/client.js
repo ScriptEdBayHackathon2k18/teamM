@@ -39,8 +39,10 @@ $(function() {
     $("#content").html(content);
     $("body").css("background-color", screen.background); 
     
-    $("#leftButton").data("next-screen", screen.options.leftbutton.link_id);
-    $("#leftButton").text(screen.options.leftbutton.text);
+    if(screen.options.leftbutton){    
+      $("#leftButton").data("next-screen", screen.options.leftbutton.link_id);
+      $("#leftButton").text(screen.options.leftbutton.text);
+    }
     
     if(screen.options.middlebutton){
       $("#middleButton").data("next-screen", screen.options.middlebutton.link_id);
