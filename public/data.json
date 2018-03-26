@@ -1,166 +1,166 @@
 [{
-	"id": 0,
-	"content": "<p class=\"con\">\r\n        Doctor: \"Are the wires connected?\"\r\n        <\/p>\r\n        <p class=\"con\">\r\n        You: \"Yes. His life depends on me doesn't it?\"\r\n        <\/p>\r\n        <p class=\"con\">\r\n        Doctor: \"It does. Your decisions will be a great impact in your friend's mental \r\n        state. Remember: when you dive into his consciousness, he will not know who you are. This diving session \r\n        will affect your mental state as well. You will be launched into his consciousness in 3... 2... 1...\"\r\n        <\/p>\r\n        <p id=\"subtext\"> \r\n          You are in. Which memory will you alter?\r\n        <\/p>",
-	"background": "#808080",
-	"options": {
-		"leftbutton": {
-			"text": "the blue sky",
-			"link_id": 1
-		},
-		"rightbutton": {
-			"text": "the red dawn",
-			"link_id": 2
-		}
-	}
+  "id": 0,
+  "content": "<p class=\"con\">\r\n        Doctor: \"Are the wires connected?\"\r\n        <\/p>\r\n        <p class=\"con\">\r\n        You: \"Yes. His life depends on me doesn't it?\"\r\n        <\/p>\r\n        <p class=\"con\">\r\n        Doctor: \"It does. Your decisions will be a great impact in your friend's mental \r\n        state. Remember: when you dive into his consciousness, he will not know who you are. This diving session \r\n        will affect your mental state as well. You will be launched into his consciousness in 3... 2... 1...\"\r\n        <\/p>\r\n        <p id=\"subtext\"> \r\n          You are in. Which memory will you alter?\r\n        <\/p>",
+  "background": "#808080",
+  "options": {
+    "leftbutton": {
+      "text": "the blue sky",
+      "link_id": 1
+    },
+    "rightbutton": {
+      "text": "the red dawn",
+      "link_id": 2
+    }
+  }
 }, {
-	"id": 1,
-	"content": "<p>\r\n          You wake up under an Oak tree in front of Oakland Charter High School. It's been ten years since you graduated. \r\n          Your friend is just right across the lawn and and surrounded by three taller students. You should...\r\n        <\/p>",
+  "id": 1,
+  "content": "<p>\r\n          You wake up under an Oak tree in front of Oakland Charter High School. It's been ten years since you graduated. \r\n          Your friend is just right across the lawn and and surrounded by three taller students. You should...\r\n        <\/p>",
   "background": "#A9A9A9",
-	"options": {
-		"leftbutton": {
-			"text": "Save him.",
-			"link_id": 5
-		},
-		"rightbutton": {
-			"text": "Ignore him.",
-			"link_id": 4
-		} 
+  "options": {
+    "leftbutton": {
+      "text": "Save him.",
+      "link_id": 5
+    },
+    "rightbutton": {
+      "text": "Ignore him.",
+      "link_id": 4
+    }
   }
 },{
-	"id": 2,
-	"content": "<p>\r\n           You wake up in front of your friend's house. It looks like... he's taking drugs?!? He's only 15. \r\n          Should you stop him?\r\n        <\/p>",
+  "id": 2,
+  "content": "<p>\r\n           You wake up in front of your friend's house. It looks like... he's taking drugs?!? He's only 15. \r\n          Should you stop him?\r\n        <\/p>",
   "background": "#686868",
-	"options": {
-		"leftbutton": {
-			"text": "Just ignore him.",
-			"link_id": 4
-		},
-		"rightbutton": {
-			"text": "Befriend him.",
-			"link_id": 3
-		}
-	}
+  "options": {
+    "leftbutton": {
+      "text": "Just ignore him.",
+      "link_id": 4
+    },
+    "rightbutton": {
+      "text": "Befriend him.",
+      "link_id": 3
+    }
+  }
 },{
-	"id": 5,
-	"content": "",
-  "background": "#C0C0C0",
-	"options": {
-		"leftbutton": {
-			"text": "",
-			"link_id": 6
-		},
-		"rightbutton": {
-			"text": "",
-			"link_id": 7
-		}
-	}
-},{
-	"id": 4,
-	"content": "",
-  "background": "#707070",
-	"options": {
-		"middlebutton": {
-			"text": "",
-			"link_id": 7
-		}
-	}
-},{
-	"id": 3,
-	"content": "<p>\r\n          After hanging around him for a few days, you spot your friend crying. He wants reassurance \r\n          that his future will be fine; he knows what he's doing is wrong... Should you warn him?\r\n        <\/p>",
+  "id": 3,
+  "content": "<p>\r\n          After hanging around him for a few days, you spot your friend crying. He wants reassurance \r\n          that his future will be fine; he knows what he's doing is wrong... Should you warn him?\r\n        <\/p>",
   "background": "#404040",
-	"options": {
-		"leftbutton": {
-			"text": "No. This was his own wrongdoing.",
-			"link_id": 7
+  "options": {
+    "leftbutton": {
+      "text": "No. This was his own wrongdoing.",
+      "link_id": 7
     },
     "middlebutton": {
-			"text": "",
-			"link_id": 8
-		},
-		"rightbutton": {
-			"text": "Explain how you dived into his consciousness.",
-			"link_id": 9
-		}
-   }
-	}, {
-	"id": 6,
-	"content": "<p>\r\n          Your friend rushes up to you and thanks you. Both of you skip the rest of today's classes to hang out. \r\n          As you were heading towards the park, someone abruptly blocks your path. It's the bullies from earlier.\r\n          Either you leave your friend to \"hang out\" with them or you can say goodbye to your face.\r\n        <\/p>",
-  "background": "#D3D3D3",
-	"options": {
-		"leftbutton": {
-			"text": "You can't think straight and just RUN, leaving your friend behind.",
-			"link_id": 11
-		},
-		"rightbutton": {
-			"text": "You grab your friend's hand and run.",
-			"link_id": 10
-		}
-	}
+      "text": "",
+      "link_id": 8
+    },
+    "rightbutton": {
+      "text": "Explain how you dived into his consciousness.",
+      "link_id": 9
+    }
+  }
 },{
-	"id": 7,
-	"content": "<p>\r\n          After school, you are strolling down the sidewalk when you encounter your friend once again, surrounded \r\n          by bullies. He's been heavily beaten: there's a bruise under his eye and he's clutching his stomach.\r\n        <\/p>",
-  "background": "#696969",
-	"options": {
-		"leftbutton": {
-			"text": "This has gone far enough. Stop them.",
-			"link_id": 10
-		},
-		"rightbutton": {
-			"text": "You look away in shame. It's already too late.",
-			"link_id": 11
-		}
-	}
-},{
-	"id": 8,
-	"content": "<p>\r\n          Doctor:\"Diver, your session is over. I repeat, Diver, your session is over. \r\n          Please make attempt to make contact with your friend's subconsciousness.\"\r\n        <\/p>",
+  "id": 4,
+  "content": "",
   "background": "#707070",
-	"options": {
-		"middlebutton": {
-			"text": "",
-			"link_id": 200
-		}
-	}
- }, {
-	"id": 9,
-	"content": "<p>\r\n          After you explain how you are diving into his mind, a smile slowly spreads across his face.\r\n          He's glad you decided to confide in him. He feels like he's gotten a huge load lifted from his shoulders!\r\n          Shortly afterwards, the doctor's voice enters your mind.\r\n        <\/p>",
-   "background": "#303030",
-	"options": {
-		"middlebutton": {
-			"text": "Okay, I'm ready.",
-			"link_id": 300
-		}
-	}
- },{
-	"id": 11,
-	"content": "<p>\r\n          The doctor contacts you.\r\n        <\/p>\r\n        <p>\r\n          Doctor: \"Diver, the mission has failed. For some reason, the patient's mind has gone under extreme stress\r\n          and... I am no longer receiving a response.\"\r\n        <\/p>",
-   "background": "#E0E0E0",
-	"options": {
-		"middlebutton": {
-			"text": "Return",
-			"link_id": 100
-		}
-	}
- },{
-	"id": 10,
-	"content": "<p>\r\n          You hold up your phone and threatening to call the police. The bullies mutter under their \r\n          breath and leave. You friend is crying tears of relief and joy. Shortly afterwards, the doctor contacts you.\r\n        <\/p>\r\n        <p>\r\n          Doctor:\"Mission complete! Your friend's mind is almost healed. There is a great chance of full recovery. \r\n          In addition to that, you have suffered minimal damage and will be mostly unaffected. Please report your findings\r\n          when you return.\"\r\n        <\/p>",
-   "background": "#585858",
-	"options": {
-		"middlebutton": {
-			"text": "Return",
-			"link_id": 200
-		}
-	}
- },{
-	"id": 100,
-	"content": "<p>\r\n          Upon your return, your doctor tells you that it is unlikely your friend will ever wake up again. \r\n          The doctor couldn't see what was going on and doesn't know what happened.\r\n        <\/p>",
+  "options": {
+    "middlebutton": {
+      "text": "",
+      "link_id": 7
+    }
+  }
+},{
+  "id": 5,
+  "content": "",
+  "background": "#C0C0C0",
+  "options": {
+    "leftbutton": {
+      "text": "",
+      "link_id": 6
+    },
+    "rightbutton": {
+      "text": "",
+      "link_id": 7
+    }
+  }
+}, {
+  "id": 6,
+  "content": "<p>\r\n          Your friend rushes up to you and thanks you. Both of you skip the rest of today's classes to hang out. \r\n          As you were heading towards the park, someone abruptly blocks your path. It's the bullies from earlier.\r\n          Either you leave your friend to \"hang out\" with them or you can say goodbye to your face.\r\n        <\/p>",
+  "background": "#D3D3D3",
+  "options": {
+    "leftbutton": {
+      "text": "You can't think straight and just RUN, leaving your friend behind.",
+      "link_id": 11
+    },
+    "rightbutton": {
+      "text": "You grab your friend's hand and run.",
+      "link_id": 10
+    }
+  }
+},{
+  "id": 7,
+  "content": "<p>\r\n          After school, you are strolling down the sidewalk when you encounter your friend once again, surrounded \r\n          by bullies. He's been heavily beaten: there's a bruise under his eye and he's clutching his stomach.\r\n        <\/p>",
+  "background": "#696969",
+  "options": {
+    "leftbutton": {
+      "text": "This has gone far enough. Stop them.",
+      "link_id": 10
+    },
+    "rightbutton": {
+      "text": "You look away in shame. It's already too late.",
+      "link_id": 11
+    }
+  }
+},{
+  "id": 8,
+  "content": "<p>\r\n          Doctor:\"Diver, your session is over. I repeat, Diver, your session is over. \r\n          Please make attempt to make contact with your friend's subconsciousness.\"\r\n        <\/p>",
+  "background": "#707070",
+  "options": {
+    "middlebutton": {
+      "text": "",
+      "link_id": 200
+    }
+  }
+}, {
+  "id": 9,
+  "content": "<p>\r\n          After you explain how you are diving into his mind, a smile slowly spreads across his face.\r\n          He's glad you decided to confide in him. He feels like he's gotten a huge load lifted from his shoulders!\r\n          Shortly afterwards, the doctor's voice enters your mind.\r\n        <\/p>",
+  "background": "#303030",
+  "options": {
+    "middlebutton": {
+      "text": "Okay, I'm ready.",
+      "link_id": 300
+    }
+  }
+},{
+  "id": 11,
+  "content": "<p>\r\n          The doctor contacts you.\r\n        <\/p>\r\n        <p>\r\n          Doctor: \"Diver, the mission has failed. For some reason, the patient's mind has gone under extreme stress\r\n          and... I am no longer receiving a response.\"\r\n        <\/p>",
+  "background": "#E0E0E0",
+  "options": {
+    "middlebutton": {
+      "text": "Return",
+      "link_id": 100
+    }
+  }
+},{
+  "id": 10,
+  "content": "<p>\r\n          You hold up your phone and threatening to call the police. The bullies mutter under their \r\n          breath and leave. You friend is crying tears of relief and joy. Shortly afterwards, the doctor contacts you.\r\n        <\/p>\r\n        <p>\r\n          Doctor:\"Mission complete! Your friend's mind is almost healed. There is a great chance of full recovery. \r\n          In addition to that, you have suffered minimal damage and will be mostly unaffected. Please report your findings\r\n          when you return.\"\r\n        <\/p>",
+  "background": "#585858",
+  "options": {
+    "middlebutton": {
+      "text": "Return",
+      "link_id": 200
+    }
+  }
+},{
+  "id": 100,
+  "content": "<p>\r\n          Upon your return, your doctor tells you that it is unlikely your friend will ever wake up again. \r\n          The doctor couldn't see what was going on and doesn't know what happened.\r\n        <\/p>",
   "background": "#ffffff"
- }, {
-	"id": 200,
-	"content": "<p>\r\n          Your friend thanks you for saving them, they are happy to know that there is someone who cares for them \r\n          as much you do. Upon your return, your doctor tells you've made amazing progress. Your friend will most \r\n          likely recover completely in a year or so.\r\n        <\/p>",
+}, {
+  "id": 200,
+  "content": "<p>\r\n          Your friend thanks you for saving them, they are happy to know that there is someone who cares for them \r\n          as much you do. Upon your return, your doctor tells you've made amazing progress. Your friend will most \r\n          likely recover completely in a year or so.\r\n        <\/p>",
   "background": "#808080"
- }, {
-	"id": 300,
-	"content": "<p>\r\n          You meet your friend. He laughs. Thanks for trusting him... although you may regret it. He's figured out how to \r\n          control the simulation. There are two doors: the one you came in from and the one that entered your friend's \r\n          memories. He shoves you into his and runs through yours before you can react. Your world fades to darkness.\r\n        <\/p>",
+}, {
+  "id": 300,
+  "content": "<p>\r\n          You meet your friend. He laughs. Thanks for trusting him... although you may regret it. He's figured out how to \r\n          control the simulation. There are two doors: the one you came in from and the one that entered your friend's \r\n          memories. He shoves you into his and runs through yours before you can react. Your world fades to darkness.\r\n        <\/p>",
   "background": "#000000"
- }]
+}]
  
